@@ -1,0 +1,78 @@
+body{
+	font-family: "宋体"；
+}
+.nav{
+	height: 60px;
+	background-color: #FFF;
+	font-size: 14px;
+	width: 100%;
+
+}
+.navbar{
+	float: right;
+
+}
+.video{
+	margin-right: 150px;
+}
+.map{
+	margin-right: 10px;
+}
+.news{
+	margin-right: 10px;
+}
+.wrapper{
+	margin-top: 1%;
+	margin-bottom: 80px;
+	width: 100%;
+
+}
+.img{
+	width: 40%;
+	margin:0 auto;
+}
+.search{
+	height: 100px;
+	margin-top: 20px;
+	width: 60%;
+	margin: 0 auto;
+}
+.input{
+	width: 320px;
+	float: left;
+	padding: 6px 0;
+	margin-left: 23%;
+}
+.search-btn{
+	background-color: #3333FF;
+	color: #FFF;
+	width: 65px;
+	padding: 5px;
+	float: left;
+}
+.foot{
+	margin-top: 10%;
+}
+.setHome{
+	margin-top: 10px;
+	margin-bottom: 100px;
+	margin-left: 37%;
+	font-size: 10px;
+	float: left;
+}
+.about-baidu{
+	margin-top: 10px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	font-size: 10px;
+	float:left;
+
+}
+.promation{
+	margin-top: 10px;
+	margin-bottom: 100px;
+	margin-left: 50px;
+	font-size: 10px;
+	float:left;
+
+}
